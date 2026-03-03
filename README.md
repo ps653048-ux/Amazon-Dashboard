@@ -1,5 +1,4 @@
 ## 📌 Project Overview
-
 This project analyzes Amazon product listing data to understand pricing strategy, discount patterns, and customer perception using Power BI.
 
 The goal was to explore whether discount strategies influence customer ratings and engagement, and to identify high-performing and underperforming product categories.
